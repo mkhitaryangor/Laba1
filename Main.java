@@ -4,7 +4,7 @@ import java.util.concurrent.ThreadLocalRandom;
 // so add 1 to make it inclusive
 
 public class Main {
-    public static void main(String[] args) 
+    public static void main(String[] args) {
         int[] someArray = new int[10];
         int sum = 0;
         for (int i = 0; i < 10; i++) {
